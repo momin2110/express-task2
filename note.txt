@@ -1,0 +1,6 @@
+1. http request get, post, put, delete
+2. request with query parameter --> req.query.parameterName
+3. request with route parameter --> req.params.parameterName
+4. request with header --> req.header('key')
+5. request with json/form data inside body --> req.body.parameterName
+
